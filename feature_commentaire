@@ -1,0 +1,8 @@
+**Fonctionnalité : Afficher les commentaires**
+
+**Sous-fonctionnalités :**
+1. Affichage des commentaires : Afficher les commentaires laissés par les clients sur les prestations et les services de la professionnelle.
+2. Évaluation : Afficher les évaluations et les notes attribuées par les clients.
+
+**Contraintes :**
+1. Modération : Les commentaires doivent être modérés pour éviter tout contenu inapproprié ou offensant.

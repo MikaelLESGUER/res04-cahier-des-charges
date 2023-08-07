@@ -1,0 +1,62 @@
+- Accueil (/)
+  Page d'accueil du site.
+- Services (/services)
+  Liste des services proposés par le salon de manucure.
+  L'utilisateur peut voir tous les services disponibles.
+- Détails du service (/services/:id)
+  Page de détails d'un service spécifique.
+  L'utilisateur peut voir les informations détaillées d'un service particulier.
+- Portfolio (/portfolio)
+  Portfolio des réalisations du salon de manucure.
+  L'utilisateur peut voir les différentes réalisations du salon.
+- Détails de la réalisation (/portfolio/:id)
+  Page de détails d'une réalisation spécifique.
+  L'utilisateur peut voir les détails d'une réalisation particulière.
+- Commentaires (/comments)
+  Liste des commentaires laissés par les clients du salon.
+  L'utilisateur peut voir les avis et commentaires des autres clients.
+- Réservation (/reservation)
+  Page de réservation en ligne pour les services du salon.
+  L'utilisateur peut réserver un rendez-vous pour un service spécifique.
+- Contact (/contact)
+  Page de contact pour entrer en communication avec le salon de manucure.
+  L'utilisateur peut envoyer un message au salon via un formulaire de contact.
+- Register (/register)
+  Page d'inscription pour les nouveaux utilisateurs.
+  L'utilisateur peut créer un nouveau compte sur le site.
+- Login (/login)
+  Page de connexion pour les utilisateurs existants.
+  L'utilisateur peut se connecter à son compte.
+- Profil (/profile)
+  Page de profil de l'utilisateur connecté.
+  L'utilisateur peut voir ses informations personnelles et les éditer si nécessaire.
+- Tableau de bord - Admin (/admin/dashboard)
+  Tableau de bord de l'administrateur.
+  L'administrateur peut gérer les prestations, les réalisations, les commentaires, les rendez-vous et les messages.
+- Gestion des prestations (/admin/services)
+  Page de gestion des prestations dans le tableau de bord de l'administrateur.
+  L'administrateur peut voir la liste des prestations, en ajouter de nouvelles et les modifier.
+- Ajouter une prestation (/admin/services/add)
+  Page d'ajout d'une nouvelle prestation dans le tableau de bord de l'administrateur.
+  L'administrateur peut saisir les informations d'une nouvelle prestation et l'ajouter à la liste.
+- Modifier une prestation (/admin/services/:id/edit)
+  Page de modification d'une prestation existante dans le tableau de bord de l'administrateur.
+  L'administrateur peut modifier les informations d'une prestation déjà enregistrée.
+- Gestion des réalisations (/admin/portfolio)
+  Page de gestion des réalisations dans le tableau de bord de l'administrateur.
+  L'administrateur peut voir la liste des réalisations, en ajouter de nouvelles et les modifier.
+- Ajouter une réalisation (/admin/portfolio/add)
+  Page d'ajout d'une nouvelle réalisation dans le tableau de bord de l'administrateur.
+  L'administrateur peut saisir les informations d'une nouvelle réalisation et l'ajouter à la liste.
+- Modifier une réalisation (/admin/portfolio/:id/edit)
+  Page de modification d'une réalisation existante dans le tableau de bord de l'administrateur.
+  L'administrateur peut modifier les informations d'une réalisation déjà enregistrée.
+- Gestion des commentaires (/admin/comments)
+  Page de gestion des commentaires dans le tableau de bord de l'administrateur.
+  L'administrateur peut voir la liste des commentaires laissés par les clients et y répondre si nécessaire.
+- Gestion des rendez-vous (/admin/appointments)
+  Page de gestion des rendez-vous dans le tableau de bord de l'administrateur.
+  L'administrateur peut voir la liste des rendez-vous réservés par les clients et les gérer.
+- Répondre aux messages (/admin/messages)
+  Page de gestion des messages dans le tableau de bord de l'administrateur.
+  L'administrateur peut voir la liste des messages envoyés par les clients et y répondre.

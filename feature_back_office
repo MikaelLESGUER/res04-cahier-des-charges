@@ -1,0 +1,15 @@
+**Fonctionnalité : Back-office (Interface-admin)**
+
+**Sous-fonctionnalités :**
+1. Connexion à l'interface admin : Permettre à la professionnelle de se connecter à l'interface admin à l'aide de ses identifiants sécurisés.
+2. Tableau de bord : Afficher un tableau de bord avec un aperçu des rendez-vous à venir, des commentaires clients, des statistiques d'utilisation, etc.
+3. Gestion des prestations : Permettre à la professionnelle d'ajouter, de modifier ou de supprimer des prestations de manucure et leurs descriptions.
+4. Gestion des réalisations : Permettre à la professionnelle d'ajouter, de modifier ou de supprimer des photos de ses réalisations pour les présenter aux clients potentiels.
+5. Gestion des commentaires : Afficher les commentaires laissés par les clients et permettre à la professionnelle de répondre ou de les modérer si nécessaire.
+6. Gestion des rendez-vous : Voir la liste des rendez-vous réservés, les modifier, les annuler ou les confirmer.
+7. Statistiques : Afficher des statistiques sur les performances du salon, comme le nombre de rendez-vous par mois, les prestations les plus populaires, etc.
+8. Gestion des offres spéciales : Ajouter, modifier ou supprimer des offres spéciales et des promotions pour attirer les clients.
+
+**Contraintes :**
+1. Sécurité renforcée : L'interface admin doit être protégée par des mesures de sécurité strictes pour empêcher tout accès non autorisé.
+2. Accessibilité restreinte : Seule la professionnelle doit avoir accès à l'interface admin via des identifiants sécurisés.

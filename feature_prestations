@@ -1,0 +1,10 @@
+**Fonctionnalité : Présenter les prestations**
+
+**Sous-fonctionnalités :**
+1. Page des prestations : Afficher une page détaillée avec la liste complète des prestations de manucure disponibles.
+2. Description des prestations : Fournir des descriptions détaillées pour chaque prestation, y compris les techniques utilisées et les durées estimées.
+3. Tarifs : Afficher les tarifs associés à chaque prestation.
+4. Options supplémentaires : Présenter des options supplémentaires telles que des traitements spécifiques, des soins supplémentaires, etc.
+
+**Contraintes :**
+1. Contenu à jour : Les prestations et les tarifs doivent être maintenus à jour par la professionnelle via l'interface admin.

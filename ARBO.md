@@ -10,6 +10,7 @@ Arborescence du site:
 - Contact (/contact)
 - Register (/register)
 - Login (/login)
+- Profil (/profile)         <-- Nouvelle page pour afficher et éditer le profil de l'utilisateur connecté
 - Tableau de bord - Admin (/admin/dashboard)
   - Gestion des prestations (/admin/services)
     - Ajouter une prestation (/admin/services/add)

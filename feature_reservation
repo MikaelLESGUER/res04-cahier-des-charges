@@ -1,0 +1,9 @@
+**Fonctionnalité : Réserver un rdv en ligne**
+
+**Sous-fonctionnalités :**
+1. Sélection de la prestation : Permettre aux clients potentiels de choisir la prestation souhaitée à partir de la liste des prestations disponibles.
+2. Choix du créneau horaire : Afficher les créneaux horaires disponibles et permettre aux clients de sélectionner celui qui leur convient.
+3. Formulaire de réservation : Fournir un formulaire où les clients peuvent fournir leurs informations de contact et autres détails nécessaires pour la réservation.
+
+**Contraintes :**
+1. Disponibilité en temps réel : Les créneaux horaires doivent être mis à jour en temps réel pour éviter les conflits de réservation.

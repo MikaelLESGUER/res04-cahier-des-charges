@@ -1,0 +1,8 @@
+**Fonctionnalité : Informations pratiques**
+
+**Sous-fonctionnalités :**
+1. Horaires d'ouverture : Afficher les heures d'ouverture du salon de manucure.
+2. Localisation : Fournir un plan d'accès pour aider les clients à trouver facilement le salon.
+
+**Contraintes :**
+1. Mise à jour des horaires : Les horaires d'ouverture doivent être tenus à jour en cas de modifications.

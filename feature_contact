@@ -1,0 +1,8 @@
+**Fonctionnalité : Contacter le salon**
+
+**Sous-fonctionnalités :**
+1. Formulaire de contact : Fournir un formulaire de contact où les clients potentiels peuvent envoyer des messages au salon.
+2. Coordonnées : Afficher les coordonnées du salon, y compris l'adresse, le numéro de téléphone et l'adresse e-mail.
+
+**Contraintes :**
+1. Réponse rapide : Le salon doit s'efforcer de répondre rapidement aux messages reçus via le formulaire de contact.
